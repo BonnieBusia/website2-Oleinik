@@ -1,0 +1,34 @@
+header {
+    background-color: brown;
+}
+
+.camper{
+    width: 250px;
+    height: 250px;
+}
+.camper-1{
+    background-color: blue;
+} 
+.scavenger{
+        width: 250px;
+        height: 250px;
+
+}
+.scavenger-1{
+        background-color: green;
+
+}
+.medic {
+      width: 250px;
+        height: 250px;
+  
+
+}   
+.medic-1{
+background-color: red;
+
+}
+.cook {
+      width: 250px;
+        height: 250px;
+.cook-1 background-color: ;
